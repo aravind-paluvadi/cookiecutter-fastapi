@@ -9,6 +9,14 @@ Cookiecutter module with Fast API starter kit
     - url: https://cookiecutter.readthedocs.io/en/stable/
 
 
+# Instructions to run the project:
+- Install the dependency cookiecutter using pip
+- To create a new project using this template, use the following command:
+```bash
+cookiecutter gh:your-username/cookiecutter-fastapi
+```
+
+
 ## Project Structure:
 ```
 cookiecutter-fastapi/
